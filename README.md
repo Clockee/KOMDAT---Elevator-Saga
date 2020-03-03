@@ -24,9 +24,8 @@ System Requirement:
 1. Membuat VM Ubuntu Server Membuat VM baru pada VirtualBox dengan tipe "Ubuntu 64-bit", menggunakan virtual disk Ubuntu Server 18.04.
 2. Setting Port-Forwarding VM Tujuannya adalah agar VM bisa diakses dari luar melalui alamat IP host (localhost). Masuk ke 'Settings -> Network -> Advanced -> Port Forwarding' lalu ditambahkan dua aturan berikut.
 3. Instalasi LAMP (Linux Apache MySQL PHP)
-```
+```bash
 # akses vm dari host
-
 ssh student@localhost -p 2222
 
 # instal apache, mysql, php
