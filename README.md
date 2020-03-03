@@ -1,5 +1,6 @@
-
-![Elevator Saga](https://github.com/Clockee/KOMDAT---Elevator-Saga/blob/master/gambar.PNG)
+<p align="center">
+  <img src="https://github.com/Clockee/KOMDAT---Elevator-Saga/blob/master/gambar.PNG">
+</p>
 
 # Sekilas Tentang
 
