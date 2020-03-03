@@ -68,7 +68,7 @@ sudo service apache2 restart
 
 ## Instalasi Elevator Saga
 1. Clone Elevator Saga dari [repositori githubnya](https://github.com/magwo/elevatorsaga)
-2. Copy data yang sudah di_clone_ ke  /var/www/html
+2. Copy folder yang sudah di clone ke folder  */var/www/html*
 
 ```bash
 
