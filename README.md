@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="200%" height="200%" src="https://github.com/Clockee/KOMDAT---Elevator-Saga/master/etc/gambar.PNG">
+  <img  width="200%" height="200%" src="https://github.com/Clockee/KOMDAT---Elevator-Saga/blob/master/etc/gambar.PNG">
 </p>
 
 
