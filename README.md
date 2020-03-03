@@ -2,6 +2,10 @@
   <img  width="200%" height="200%" src="https://github.com/Clockee/KOMDAT---Elevator-Saga/blob/master/etc/gambar.PNG">
 </p>
 
+# Daftar Isi
+1. [`Deskripsi`](#deskripsi)
+2. [`Instalasi`](#instalasi)
+2.1 [`Instalasi Web Server Virtual`](##instalasi-web-server-virtual)
 
 
 # Sekilas Tentang
