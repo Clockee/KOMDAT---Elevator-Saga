@@ -5,12 +5,12 @@
 # Daftar Isi
 - [`Deskripsi`](#deskripsi)
 - [`Instalasi`](#instalasi)
-  - [`Instalasi Web Server Virtual`](##instalasi-web-server-virtual)
-  - [`Instalasi Elevator Saga`](##instalasi-elevator-saga)
+  - [`Instalasi Web Server Virtual`](#instalasi-web-server-virtual)
+  - [`Instalasi Elevator Saga`](#instalasi-elevator-saga)
 - [`Cara Bermain`](#cara-bermain)
 - [`Pembahasan`](#pembahasan)
-  - [`Kelebihan`](##kelebihan)
-  - [`Kekurangan`](##kekurangan)
+  - [`Kelebihan`](#kelebihan)
+  - [`Kekurangan`](#kekurangan)
 - [`Referensi`](#referensi)
 
 
