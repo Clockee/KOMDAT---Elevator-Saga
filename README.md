@@ -3,12 +3,12 @@
 </p>
 
 # Daftar Isi
-1. [`Deskripsi`](#deskripsi)
-2. [`Instalasi`](#instalasi)
-2.1 [`Instalasi Web Server Virtual`](##instalasi-web-server-virtual)
+- [`Deskripsi`](#deskripsi)
+- [`Instalasi`](#instalasi)
+  - [`Instalasi Web Server Virtual`](##instalasi-web-server-virtual)
 
 
-# Sekilas Tentang
+# Deskripsi
 
 Elevator saga adalah sebuah permainan berbasis web yang menggunakan algoritma/programing untuk menyelesaikan permainannya. Pemain diminta untuk membantu memecahkan permasalahan elevator dengan membuat program pada _JavaScript_ yang digunakan oleh pemain untuk memprogram pergerakan elevator. Tujuan permainan ini adalah untuk memindahkan orang dengan elevator se-optimal mungkin.
 
