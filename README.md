@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="200%" height="200%" src="https://github.com/Clockee/KOMDAT---Elevator-Saga/etc/blob/master/gambar.PNG">
+  <img  width="200%" height="200%" src="https://github.com/Clockee/KOMDAT---Elevator-Saga/master/etc/gambar.PNG">
 </p>
 
 
@@ -32,7 +32,7 @@ http   | TCP        |            | 8888       |            | 80
 ssh    | TCP        |            | 3000       |            | 22
 
 <p align="center">
-  <img   src="https://github.com/Clockee/KOMDAT---Elevator-Saga/etc/blob/master/port_forwarding.PNG">
+  <img src="https://raw.githubusercontent.com/Clockee/KOMDAT---Elevator-Saga/master/etc/port_forwarding.png">
 </p>
 
 3. Instalasi LAMP (Linux Apache MySQL PHP)
