@@ -14,13 +14,13 @@ Elevator saga adalah sebuah permainan berbasis web yang menggunakan algoritma/pr
 
 # Instalasi
 
-System Requirement:
-
-* Unix, Linux atau Windows.
-* Apache Web server 1.3+.
-* PHP 5.2+.
-* MySQL 5.0+.
-* RAM minimal 64 Mb+
+Requirement yang dibutuhkan:
+* HTML
+* CSS
+* JavaScript
+* Apache
+* MySQL
+* PHP
 
 ## Instalasi Web Server Virtual
 
