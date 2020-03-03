@@ -6,6 +6,12 @@
 - [`Deskripsi`](#deskripsi)
 - [`Instalasi`](#instalasi)
   - [`Instalasi Web Server Virtual`](##instalasi-web-server-virtual)
+  - [`Instalasi Elevator Saga`](##instalasi-elevator-saga)
+- [`Cara Bermain`](#cara-bermain)
+- [`Pembahasan`](#pembahasan)
+  - [`Kelebihan`](##kelebihan)
+  - [`Kekurangan`](##kekurangan)
+- [`Referensi`](#referensi)
 
 
 # Deskripsi
@@ -42,7 +48,7 @@ ssh    | TCP        |            | 3000       |            | 22
 3. Instalasi LAMP (Linux Apache MySQL PHP)
 ```bash
 # akses vm dari host
-ssh student@localhost -p 2222
+ssh student@localhost -p 3000
 
 # set repo
 sudo tee /etc/apt/sources.list << !
@@ -63,6 +69,16 @@ sudo service apache2 restart
 ## Instalasi Elevator Saga
 1. Clone Elevator Saga dari [repositori githubnya](https://github.com/magwo/elevatorsaga)
 2. Copy data yang sudah di_clone_ ke  /var/www/html
+
+```bash
+
+# clone source code
+git clone https://github.com/magwo/elevatorsaga.git
+
+# pindah folder
+sudo cp -r elevatorsaga /var/www/html
+
+```
 
 # Cara Bermain
 * Masukkan kode program dalam input window yang berada di dalam laman permainan, kemudian tekan tombol _Apply_ untuk memulai permainan
