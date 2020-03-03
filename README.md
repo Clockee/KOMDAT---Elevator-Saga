@@ -60,5 +60,34 @@ sudo service apache2 restart
 
 ```
 
+## Instalasi Elevator Saga
+1. Clone Elevator Saga dari [repositori githubnya](https://github.com/magwo/elevatorsaga)
+2. Copy data yang sudah di_clone_ ke  /var/www/html
+
+# Cara Bermain
+* Masukkan kode program dalam input window yang berada di dalam laman permainan, kemudian tekan tombol _Apply_ untuk memulai permainan
+* Pemain dapat mengatuk kecepatan permainan dengan menekan tombol + dan -
+* Jika terdapat error dalam kode, bisa menggunakan developer tools di browser untuk mencoba dan men-debug terlebih dahulu
+* Jika ingin mengulang semua kodenya, tekan tombol reset
+* Pemain bisa menggunakan text editor favorit, setelah itu menyalinnya ke editor di dalam permainan
+* Kode yang sudah dibuat akan secara otomatis tersimpan di penyimpanan lokal sehingga tidak perlu takut jika tidak sengaja menutup browser
+
+Lebih lengkapnya, cara bermain bisa dilihat [di sini](https://play.elevatorsaga.com/documentation.html)
+
+# Pembahasan
+### Kelebihan
+- Melatih kemampuan membuat kode program dalam JavaScript dengan menyenangkan
+
+### Kekurangan
+- Tampilan kurang menarik
+
+# Referensi
+https://github.com/magwo/elevatorsaga
+
+https://github.com/auriza/komdat-lab/blob/master/p01.md
+
+https://play.elevatorsaga.com/documentation.html
+
+
 
 
