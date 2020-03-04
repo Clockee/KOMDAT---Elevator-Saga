@@ -83,6 +83,7 @@ sudo cp -r elevatorsaga /var/www/html
 
 # Cara Bermain
 * Masukkan kode program dalam input window yang berada di dalam laman permainan, kemudian tekan tombol _Apply_ untuk memulai permainan
+![](https://github.com/Clockee/KOMDAT---Elevator-Saga/blob/master/etc/es2.png)
 * Pemain dapat mengatuk kecepatan permainan dengan menekan tombol + dan -
 * Jika terdapat error dalam kode, bisa menggunakan developer tools di browser untuk mencoba dan men-debug terlebih dahulu
 * Jika ingin mengulang semua kodenya, tekan tombol reset
