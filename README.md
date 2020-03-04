@@ -89,6 +89,8 @@ sudo cp -r elevatorsaga /var/www/html
 * Pemain bisa menggunakan text editor favorit, setelah itu menyalinnya ke editor di dalam permainan
 * Kode yang sudah dibuat akan secara otomatis tersimpan di penyimpanan lokal sehingga tidak perlu takut jika tidak sengaja menutup browser
 
+![SS](https://github.com/Clockee/KOMDAT---Elevator-Saga/blob/master/etc/documentation.png)
+
 Lebih lengkapnya, cara bermain bisa dilihat [di sini](https://play.elevatorsaga.com/documentation.html)
 
 # Pembahasan
