@@ -79,6 +79,7 @@ git clone https://github.com/magwo/elevatorsaga.git
 sudo cp -r elevatorsaga /var/www/html
 
 ```
+3. Arahkan browser ke http://localhost:8888/elevatorsaga (sesuai dengan port awal yang diinisialisasikan) untuk bermain
 
 # Cara Bermain
 * Masukkan kode program dalam input window yang berada di dalam laman permainan, kemudian tekan tombol _Apply_ untuk memulai permainan
